@@ -1,0 +1,39 @@
+file data/youtubedata_indextest.json
+number of videos 1
+
+first video id UCehf4850q1L3ng7s7L54ATA
+first video channel Joe Bloggs
+first video title ONE TWO TWO THREE THREE THREE
+first video date 2016-04-20T23:15:17.000Z
+first video views 14180950
+
+sort by channel name id UCehf4850q1L3ng7s7L54ATA
+sort by channel name channel Joe Bloggs
+sort by channel name title ONE TWO TWO THREE THREE THREE
+sort by channel name date 2016-04-20T23:15:17.000Z
+sort by channel name views 14180950
+
+sort by date id UCehf4850q1L3ng7s7L54ATA
+sort by date channel Joe Bloggs
+sort by date title ONE TWO TWO THREE THREE THREE
+sort by date date 2016-04-20T23:15:17.000Z
+sort by date views 14180950
+
+sort by views id UCehf4850q1L3ng7s7L54ATA
+sort by views channel Joe Bloggs
+sort by views title ONE TWO TWO THREE THREE THREE
+sort by views date 2016-04-20T23:15:17.000Z
+sort by views views 14180950
+
+sort by description length id UCehf4850q1L3ng7s7L54ATA
+sort by description length channel Joe Bloggs
+sort by description length title ONE TWO TWO THREE THREE THREE
+sort by description length date 2016-04-20T23:15:17.000Z
+sort by description length views 14180950
+
+indexed word, occurrence counts, no. associated records, [ associated record ids ]
+FIVE, 5, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+FOUR, 4, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+THREE, 3, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+TWO, 2, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+ONE, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]

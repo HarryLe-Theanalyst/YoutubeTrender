@@ -1,0 +1,52 @@
+file data/youtubedata.json
+number of videos 1
+
+first video id UCehf4850q1L3ng7s7L54ATA
+first video channel Joe Bloggs
+first video title This should have a really useful title
+first video date 2016-04-20T23:15:17.000Z
+first video views 14180950
+
+sort by channel name id UCehf4850q1L3ng7s7L54ATA
+sort by channel name channel Joe Bloggs
+sort by channel name title This should have a really useful title
+sort by channel name date 2016-04-20T23:15:17.000Z
+sort by channel name views 14180950
+
+sort by date id UCehf4850q1L3ng7s7L54ATA
+sort by date channel Joe Bloggs
+sort by date title This should have a really useful title
+sort by date date 2016-04-20T23:15:17.000Z
+sort by date views 14180950
+
+sort by views id UCehf4850q1L3ng7s7L54ATA
+sort by views channel Joe Bloggs
+sort by views title This should have a really useful title
+sort by views date 2016-04-20T23:15:17.000Z
+sort by views views 14180950
+
+sort by description length id UCehf4850q1L3ng7s7L54ATA
+sort by description length channel Joe Bloggs
+sort by description length title This should have a really useful title
+sort by description length date 2016-04-20T23:15:17.000Z
+sort by description length views 14180950
+
+indexed word, occurrence counts, no. associated records, [ associated record ids ]
+a, 2, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+really, 2, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+should, 2, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+have, 2, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+This, 2, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+useful, 2, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+youtubers, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+other, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+description., 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+However, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+title, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+put, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+lots, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+and, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+of, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+links, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+promotional, 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
+material., 1, 1, [ UCehf4850q1L3ng7s7L54ATA ]
